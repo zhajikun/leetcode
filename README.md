@@ -11,7 +11,7 @@
 
                     HashMap
                  Key  |  Value
-    for loog      2        
+    for loop      2        
 
 
 
